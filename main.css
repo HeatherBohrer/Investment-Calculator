@@ -1,0 +1,35 @@
+body {
+    width: 80%;
+    padding: 0 2em;
+	background-color: #9db2af !important;
+}
+main {
+    margin: 0 auto;
+    padding: 1em;
+    background: #9db2af;
+}
+h1 {
+    margin-top: 0;
+    color: #e52d2d;
+}
+label {
+    width: 10em;
+    float: left;
+    padding-right: 1em;
+    padding-bottom: .5em;
+}
+#data input {
+    float: left;
+    width: 15em;
+    margin-bottom: .5em;
+}
+#data span {
+    padding-left: .25em;
+}
+#buttons input {
+    margin-bottom: .5em;
+}
+br {
+    clear: left;
+}
+
